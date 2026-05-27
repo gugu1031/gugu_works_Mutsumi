@@ -1,4 +1,8 @@
-# Mutsumi Codex Pet
+# gugu_works_bsu
+
+gugu-first-try
+
+## Mutsumi Codex Pet
 
 A quiet green-haired guitarist Codex custom pet.
 
